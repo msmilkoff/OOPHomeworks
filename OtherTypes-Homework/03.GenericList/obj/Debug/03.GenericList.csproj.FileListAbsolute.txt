@@ -1,0 +1,6 @@
+C:\trash\OtherTypes-Homework\03.GenericList\bin\Debug\03.GenericList.exe.config
+C:\trash\OtherTypes-Homework\03.GenericList\bin\Debug\03.GenericList.exe
+C:\trash\OtherTypes-Homework\03.GenericList\bin\Debug\03.GenericList.pdb
+C:\trash\OtherTypes-Homework\03.GenericList\obj\Debug\03.GenericList.csprojResolveAssemblyReference.cache
+C:\trash\OtherTypes-Homework\03.GenericList\obj\Debug\03.GenericList.exe
+C:\trash\OtherTypes-Homework\03.GenericList\obj\Debug\03.GenericList.pdb

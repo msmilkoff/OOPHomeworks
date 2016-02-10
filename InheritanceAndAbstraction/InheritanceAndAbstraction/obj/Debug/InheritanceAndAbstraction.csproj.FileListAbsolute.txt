@@ -1,0 +1,6 @@
+c:\users\msmilkoff\documents\visual studio 2015\Projects\InheritanceAndAbstraction\InheritanceAndAbstraction\bin\Debug\InheritanceAndAbstraction.exe.config
+c:\users\msmilkoff\documents\visual studio 2015\Projects\InheritanceAndAbstraction\InheritanceAndAbstraction\obj\Debug\InheritanceAndAbstraction.csprojResolveAssemblyReference.cache
+c:\users\msmilkoff\documents\visual studio 2015\Projects\InheritanceAndAbstraction\InheritanceAndAbstraction\bin\Debug\InheritanceAndAbstraction.exe
+c:\users\msmilkoff\documents\visual studio 2015\Projects\InheritanceAndAbstraction\InheritanceAndAbstraction\bin\Debug\InheritanceAndAbstraction.pdb
+c:\users\msmilkoff\documents\visual studio 2015\Projects\InheritanceAndAbstraction\InheritanceAndAbstraction\obj\Debug\InheritanceAndAbstraction.exe
+c:\users\msmilkoff\documents\visual studio 2015\Projects\InheritanceAndAbstraction\InheritanceAndAbstraction\obj\Debug\InheritanceAndAbstraction.pdb

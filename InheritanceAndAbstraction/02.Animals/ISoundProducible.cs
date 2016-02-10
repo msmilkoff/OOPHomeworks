@@ -1,0 +1,4 @@
+﻿interface ISoundProducible
+{
+    void ProduceSound();
+}

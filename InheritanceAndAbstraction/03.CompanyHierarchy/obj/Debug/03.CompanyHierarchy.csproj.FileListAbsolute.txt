@@ -1,0 +1,9 @@
+C:\trash\InheritanceAndAbstraction\03.CompanyHierarchy\bin\Debug\03.CompanyHierarchy.exe.config
+C:\trash\InheritanceAndAbstraction\03.CompanyHierarchy\bin\Debug\03.CompanyHierarchy.exe
+C:\trash\InheritanceAndAbstraction\03.CompanyHierarchy\bin\Debug\03.CompanyHierarchy.pdb
+C:\trash\InheritanceAndAbstraction\03.CompanyHierarchy\obj\Debug\03.CompanyHierarchy.csprojResolveAssemblyReference.cache
+C:\trash\InheritanceAndAbstraction\03.CompanyHierarchy\obj\Debug\03.CompanyHierarchy.exe
+C:\trash\InheritanceAndAbstraction\03.CompanyHierarchy\obj\Debug\03.CompanyHierarchy.pdb
+C:\Github\SoftUniHomeworks\OOP\InheritanceAndAbstraction\03.CompanyHierarchy\bin\Debug\03.CompanyHierarchy.exe.config
+C:\Github\SoftUniHomeworks\OOP\InheritanceAndAbstraction\03.CompanyHierarchy\obj\Debug\03.CompanyHierarchy.exe
+C:\Github\SoftUniHomeworks\OOP\InheritanceAndAbstraction\03.CompanyHierarchy\obj\Debug\03.CompanyHierarchy.pdb

@@ -1,0 +1,6 @@
+C:\Users\msmilkoff\Documents\Visual Studio 2015\Projects\ClassesHomework\ClassesHomework\obj\Debug\ClassesHomework.pdb
+C:\Users\msmilkoff\Documents\Visual Studio 2015\Projects\ClassesHomework\ClassesHomework\bin\Debug\ClassesHomework.exe.config
+C:\Users\msmilkoff\Documents\Visual Studio 2015\Projects\ClassesHomework\ClassesHomework\bin\Debug\ClassesHomework.exe
+C:\Users\msmilkoff\Documents\Visual Studio 2015\Projects\ClassesHomework\ClassesHomework\bin\Debug\ClassesHomework.pdb
+C:\Users\msmilkoff\Documents\Visual Studio 2015\Projects\ClassesHomework\ClassesHomework\obj\Debug\01.PersonClass.csprojResolveAssemblyReference.cache
+C:\Users\msmilkoff\Documents\Visual Studio 2015\Projects\ClassesHomework\ClassesHomework\obj\Debug\ClassesHomework.exe

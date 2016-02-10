@@ -1,0 +1,6 @@
+C:\Users\msmilkoff\Documents\Visual Studio 2015\Projects\ClassesHomework\02.LaptopShop\bin\Debug\02.LaptopShop.exe.config
+C:\Users\msmilkoff\Documents\Visual Studio 2015\Projects\ClassesHomework\02.LaptopShop\bin\Debug\02.LaptopShop.exe
+C:\Users\msmilkoff\Documents\Visual Studio 2015\Projects\ClassesHomework\02.LaptopShop\bin\Debug\02.LaptopShop.pdb
+C:\Users\msmilkoff\Documents\Visual Studio 2015\Projects\ClassesHomework\02.LaptopShop\obj\Debug\02.LaptopShop.exe
+C:\Users\msmilkoff\Documents\Visual Studio 2015\Projects\ClassesHomework\02.LaptopShop\obj\Debug\02.LaptopShop.pdb
+C:\Users\msmilkoff\Documents\Visual Studio 2015\Projects\ClassesHomework\02.LaptopShop\obj\Debug\02.LaptopShop.csprojResolveAssemblyReference.cache

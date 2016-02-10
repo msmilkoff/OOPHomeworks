@@ -1,0 +1,6 @@
+C:\trash\OtherTypes-Homework\02.FractionCalculator\bin\Debug\02.FractionCalculator.exe.config
+C:\trash\OtherTypes-Homework\02.FractionCalculator\bin\Debug\02.FractionCalculator.exe
+C:\trash\OtherTypes-Homework\02.FractionCalculator\bin\Debug\02.FractionCalculator.pdb
+C:\trash\OtherTypes-Homework\02.FractionCalculator\obj\Debug\02.FractionCalculator.exe
+C:\trash\OtherTypes-Homework\02.FractionCalculator\obj\Debug\02.FractionCalculator.pdb
+C:\trash\OtherTypes-Homework\02.FractionCalculator\obj\Debug\02.FractionCalculator.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\msmilkoff\documents\visual studio 2015\Projects\ClassesHomework\ClassesHomework\bin\Debug\ClassesHomework.exe.config
+C:\Users\msmilkoff\documents\visual studio 2015\Projects\ClassesHomework\ClassesHomework\bin\Debug\ClassesHomework.exe
+C:\Users\msmilkoff\documents\visual studio 2015\Projects\ClassesHomework\ClassesHomework\bin\Debug\ClassesHomework.pdb
+C:\Users\msmilkoff\documents\visual studio 2015\Projects\ClassesHomework\ClassesHomework\obj\Debug\ClassesHomework.csprojResolveAssemblyReference.cache
+C:\Users\msmilkoff\documents\visual studio 2015\Projects\ClassesHomework\ClassesHomework\obj\Debug\ClassesHomework.exe
+C:\Users\msmilkoff\documents\visual studio 2015\Projects\ClassesHomework\ClassesHomework\obj\Debug\ClassesHomework.pdb
